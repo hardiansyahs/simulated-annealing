@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1537631023 source:c:\users\user\documents\kuliah\semester 5\kecerdasan buatan\saa\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+
+1537675093 source:c:\users\user\documents\kuliah\semester 5\kecerdasan buatan\[tugas 1]\saa\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<cstdio>
+
